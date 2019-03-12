@@ -12,6 +12,8 @@
 		040EDCDF2237169B0026539F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 040EDCDD2237169B0026539F /* Main.storyboard */; };
 		040EDCE12237169B0026539F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 040EDCE02237169B0026539F /* Assets.xcassets */; };
 		040EDCE42237169B0026539F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 040EDCE22237169B0026539F /* LaunchScreen.storyboard */; };
+		040EDCEC2237208B0026539F /* StudentInformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040EDCEB2237208B0026539F /* StudentInformationViewController.swift */; };
+		040EDCEE2237230F0026539F /* StudentsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040EDCED2237230F0026539F /* StudentsTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		040EDCE02237169B0026539F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		040EDCE32237169B0026539F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		040EDCE52237169B0026539F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		040EDCEB2237208B0026539F /* StudentInformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentInformationViewController.swift; sourceTree = "<group>"; };
+		040EDCED2237230F0026539F /* StudentsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentsTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				040EDCE02237169B0026539F /* Assets.xcassets */,
 				040EDCE22237169B0026539F /* LaunchScreen.storyboard */,
 				040EDCE52237169B0026539F /* Info.plist */,
+				040EDCEB2237208B0026539F /* StudentInformationViewController.swift */,
+				040EDCED2237230F0026539F /* StudentsTableViewCell.swift */,
 			);
 			path = C0750127_DAY5_MAD3115;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				040EDCDC2237169B0026539F /* MenuTableViewController.swift in Sources */,
 				040EDCDA2237169B0026539F /* AppDelegate.swift in Sources */,
+				040EDCEC2237208B0026539F /* StudentInformationViewController.swift in Sources */,
+				040EDCEE2237230F0026539F /* StudentsTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
